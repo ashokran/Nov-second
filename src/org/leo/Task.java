@@ -22,6 +22,9 @@ public class Task {
 
 			} else if (Character.isDigit(r)) {
 				d++;
+				
+				System.out.println("Devolopment Work");
+				System.out.println("work carried out by Ashok");
 
 			} else {
 				h++;
