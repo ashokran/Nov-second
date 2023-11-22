@@ -25,6 +25,8 @@ public class Task {
 
 			} else {
 				h++;
+				System.out.println("QA work");
+				System.out.println("work done by capsey");
 			}
 			System.out.println("Uppercase count :" + u);
 			System.out.println("Lowercase count :" + c);
